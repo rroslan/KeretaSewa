@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "290863400453",
+    "firebase_url": "https://buying-selling.firebaseio.com",
+    "project_id": "buying-selling",
+    "storage_bucket": "buying-selling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290863400453:android:2e1446062fbc8045",
+        "android_client_info": {
+          "package_name": "biz.eastservices.buysell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290863400453-7q605k4rbnqbpchv70jqfvab46ouevl5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.eastservices.buysell",
+            "certificate_hash": "7eb7f2de55df92cb8db83f837bdb7bd4e05523da"
+          }
+        },
+        {
+          "client_id": "290863400453-67io36il74kq9tvnskt42pl2ek5n691k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRSWo1v2rZdR79TVxw0xFoK-B6vXWI7a0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290863400453-67io36il74kq9tvnskt42pl2ek5n691k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
