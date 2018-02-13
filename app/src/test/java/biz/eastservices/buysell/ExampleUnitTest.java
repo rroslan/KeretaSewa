@@ -1,4 +1,4 @@
-package com.simcoder.uber;
+package biz.eastservices.buysell;
 
 import org.junit.Test;
 

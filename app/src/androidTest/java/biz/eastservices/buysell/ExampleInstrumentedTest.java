@@ -1,4 +1,4 @@
-package com.simcoder.uber;
+package biz.eastservices.buysell;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
